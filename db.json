@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "id": "abc1",
+      "name": "Steve",
+      "photo": "https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png",
+      "mobile": "9087562010",
+      "email": "steve@gmail/.com",
+      "title": "software developer",
+      "company": "HCL",
+      "groupId": "1"
+    },
+    {
+      "id": "abc2",
+      "name": "Sarah",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "mobile": "9001234564",
+      "email": "sarah@gmail/.com",
+      "title": "softare Tester",
+      "company": "Zoho",
+      "groupId": "2"
+    },
+    {
+      "id": "abc3",
+      "name": "victor",
+      "photo": "https://www.pngitem.com/pimgs/m/22-220721_circled-user-male-type-user-colorful-icon-png.png",
+      "mobile": "9997450123",
+      "email": "victor@gmail/.com",
+      "title": "Youtuber",
+      "company": "google",
+      "groupId": "3"
+    },
+    {
+      "id": "abc4",
+      "name": "Andy",
+      "photo": "https://cdn1.iconfinder.com/data/icons/avatars-round-flat/33/an-04-512.png",
+      "mobile": "9258789360",
+      "email": "andy@gmail/.com",
+      "title": "Inspector",
+      "company": "TN Govt",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "friends"
+    },
+    {
+      "id": "2",
+      "name": "collegue"
+    },
+    {
+      "id": "3",
+      "name": "Neibhour"
+    },
+    {
+      "id": "4",
+      "name": "family"
+    }
+  ]
+}
